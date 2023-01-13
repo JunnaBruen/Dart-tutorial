@@ -1,0 +1,12 @@
+{
+ "name": "Antti",
+ "age": 17,
+ "course": 1,
+ "single": false,
+ "description": [
+  "Hockey player",
+  "Bibliophile",
+  "Synthwave music",
+  "Hardworking"
+ ]
+}

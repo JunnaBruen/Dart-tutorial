@@ -1,0 +1,30 @@
+{
+ "groupName": "First_Group",
+ "course": 1,
+ "students": [
+  {
+   "name": "Marco",
+   "age": 19,
+   "course": 1,
+   "single": false,
+   "description": [
+    "Bold",
+    "Football player",
+    "Student",
+    "Dreamer"
+   ]
+  },
+  {
+   "name": "Jano",
+   "age": 18,
+   "course": 1,
+   "single": false,
+   "description": [
+    "Romantic",
+    "Bibliophile",
+    "Student",
+    "Modest"
+   ]
+  }
+ ]
+}
